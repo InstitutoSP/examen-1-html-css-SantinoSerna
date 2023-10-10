@@ -1,0 +1,35 @@
+html{
+    font-size: 18px;
+}
+
+body{
+    background-color: gray;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+}
+
+li{
+    display: inline;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#fotos{
+  border: green;
+  
+}
