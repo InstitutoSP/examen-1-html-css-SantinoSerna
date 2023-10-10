@@ -20,4 +20,16 @@ ul{
 
 li{
     display: inline;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#fotos{
+  border: green;
+  
 }
